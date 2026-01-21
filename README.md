@@ -1,11 +1,23 @@
 # SakaYq4875
+
+## リポジトリ
+
 ## 所属
+
 都立小石川中等教育学校
+
 ## 趣味
+
 ### atcoder
-灰色 [アカウント](https://atcoder.jp/users/sakaYq4875)
+
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FSakaYq4875)](https://atcoder.jp/users/SakaYq4875)
+
 ### OnlineMathContest
+
 茶色 [アカウント](https://onlinemathcontest.com/users/SakaYq4875)
+
 ### kaggle
-ノーメダル [アカウント](https://www.kaggle.com/sakayq4875)
+
+[アカウント](https://www.kaggle.com/sakayq4875)
+
 ### クイズ
