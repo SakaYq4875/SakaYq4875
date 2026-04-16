@@ -5,7 +5,7 @@
 ## 🧩 活動
 
 ### AtCoder
-[バッジ]
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FSakaYq4875)](https://atcoder.jp/users/SakaYq4875)
 - Highest Rating: <!-- ATCODER_MAX -->
 - 現在レート: <!-- ATCODER_CURRENT -->
 
@@ -16,9 +16,5 @@
 [アカウント](https://www.kaggle.com/sakayq4875)
 
 ### クイズ
-- クイズ大会用得点管理システムを開発中
-- Pygame / Excel連携 / 演出追加
-
-## 🔥 主なリポジトリ
-- [quiz-score](リンク)
-- [maze-solver](リンク)
+- クイズ大会用疑似3D得点管理システムを開発中
+- (Pygame-ce製)
