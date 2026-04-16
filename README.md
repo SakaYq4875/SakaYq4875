@@ -1,19 +1,24 @@
 # SakaYq4875
 
-## リポジトリ
+競技プログラミング・数学・クイズ系の開発をしています。
 
-## 趣味
+## 🧩 活動
 
-### atcoder
-
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FSakaYq4875)](https://atcoder.jp/users/SakaYq4875)
+### AtCoder
+[バッジ]
+- Highest Rating: <!-- ATCODER_MAX -->
+- 現在レート: <!-- ATCODER_CURRENT -->
 
 ### OnlineMathContest
-
 茶色 [アカウント](https://onlinemathcontest.com/users/SakaYq4875)
 
-### kaggle
-
+### Kaggle
 [アカウント](https://www.kaggle.com/sakayq4875)
 
 ### クイズ
+- クイズ大会用得点管理システムを開発中
+- Pygame / Excel連携 / 演出追加
+
+## 🔥 主なリポジトリ
+- [quiz-score](リンク)
+- [maze-solver](リンク)
