@@ -8,8 +8,9 @@
 
 [![Atcoderレーティングバッジ](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FSakaYq4875)](https://atcoder.jp/users/SakaYq4875)
 
-- Highest Rating: <!-- ATCODER_MAX -->
-- 現在レート: <!-- ATCODER_CURRENT -->
+- AC数: <!-- AC_COUNT -->
+- 現在レート: <!-- CURRENT_RATING -->
+- 前回のPerf: <!-- PERFORMANCE -->
 
 ### OnlineMathContest
 
