@@ -8,9 +8,9 @@
 
 [![Atcoderレーティングバッジ](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FSakaYq4875)](https://atcoder.jp/users/SakaYq4875)
 
-- AC数: <!-- AC_COUNT -->
-- 現在レート: <!-- CURRENT_RATING -->
-- 前回のPerf: <!-- PERFORMANCE -->
+- AC数: <!-- AC_COUNT --> 1042
+- 現在レート: <!-- CURRENT_RATING --> 564
+- 前回のPerf: <!-- PERFORMANCE --> 1292
 
 ### OnlineMathContest
 
