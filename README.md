@@ -8,7 +8,7 @@
 
 [![Atcoderレーティングバッジ](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FSakaYq4875)](https://atcoder.jp/users/SakaYq4875)
 
-- AC数: <!-- AC_COUNT --> 1095
+- AC数: <!-- AC_COUNT --> 1098
 - 現在レート: <!-- CURRENT_RATING --> 613
 - 前回のPerf: <!-- PERFORMANCE --> 726
 
