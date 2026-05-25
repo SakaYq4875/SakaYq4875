@@ -6,9 +6,11 @@
 
 ### AtCoder
 
-[![Atcoderレーティングバッジ]
-[![Rating](https://badgen.org/img/atcoder/sakaYq4875/rating/algorithm?style=social&label=Algorithm)](https://atcoder.jp/users/sakaYq4875?contestType=algo)
-[![Rating(Heuristic)](https://badgen.org/img/atcoder/sakaYq4875/rating/heuristic?style=social&label=Heuristic)](https://atcoder.jp/users/sakaYq4875?contestType=heuristic)
+Atcoderレーティングバッジ
+
+[![Rating](https://badgen.org/img/atcoder/sakaYq4875/rating/algorithm?style=plastic&label=Algorithm)](https://atcoder.jp/users/sakaYq4875?contestType=algo)
+
+[![Rating(Heuristic)](https://badgen.org/img/atcoder/sakaYq4875/rating/heuristic?style=plastic&label=Heuristic)](https://atcoder.jp/users/sakaYq4875?contestType=heuristic)
 
 - AC数: <!-- AC_COUNT --> 1183
 - 現在レート: <!-- CURRENT_RATING --> 666
