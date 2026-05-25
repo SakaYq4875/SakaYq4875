@@ -6,7 +6,9 @@
 
 ### AtCoder
 
-[![Atcoderレーティングバッジ](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FSakaYq4875)](https://atcoder.jp/users/SakaYq4875)
+[![Atcoderレーティングバッジ]
+[![Rating](https://badgen.org/img/atcoder/sakaYq4875/rating/algorithm?style=social&label=Algorithm)](https://atcoder.jp/users/sakaYq4875?contestType=algo)
+[![Rating(Heuristic)](https://badgen.org/img/atcoder/sakaYq4875/rating/heuristic?style=social&label=Heuristic)](https://atcoder.jp/users/sakaYq4875?contestType=heuristic)
 
 - AC数: <!-- AC_COUNT --> 1183
 - 現在レート: <!-- CURRENT_RATING --> 666
