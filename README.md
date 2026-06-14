@@ -12,9 +12,9 @@ Atcoderレーティングバッジ
 
 [![Rating(Heuristic)](https://badgen.org/img/atcoder/sakaYq4875/rating/heuristic?style=plastic&label=Heuristic)](https://atcoder.jp/users/sakaYq4875?contestType=heuristic)
 
-- AC数: <!-- AC_COUNT --> 1225
-- 現在レート: <!-- CURRENT_RATING --> 707
-- 前回のPerf: <!-- PERFORMANCE --> 748
+- AC数: <!-- AC_COUNT --> 1244
+- 現在レート: <!-- CURRENT_RATING --> 708
+- 前回のPerf: <!-- PERFORMANCE --> 720
 
 ### OnlineMathContest
 
