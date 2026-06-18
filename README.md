@@ -12,7 +12,7 @@ Atcoderレーティングバッジ
 
 [![Rating(Heuristic)](https://badgen.org/img/atcoder/sakaYq4875/rating/heuristic?style=plastic&label=Heuristic)](https://atcoder.jp/users/sakaYq4875?contestType=heuristic)
 
-- AC数: <!-- AC_COUNT --> 1259
+- AC数: <!-- AC_COUNT --> 1269
 - 現在レート: <!-- CURRENT_RATING --> 708
 - 前回のPerf: <!-- PERFORMANCE --> 720
 
