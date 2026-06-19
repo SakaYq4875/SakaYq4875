@@ -10,7 +10,7 @@
 
 [![Rating(Heuristic)](https://badgen.org/img/atcoder/sakaYq4875/rating/heuristic?style=plastic&label=Heuristic)](https://atcoder.jp/users/sakaYq4875?contestType=heuristic)
 
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=sakaYq4875&theme=monokai&row=1&column=5&no_frame=true)](https://github.com/KATO-Hiro/AtCoderTrophies)
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=sakaYq4875&theme=monokai&rank=SSS,SS,S,AAA&row=1&column=5&no_frame=true)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
 - AC数: <!-- AC_COUNT --> 1271
 - 現在レート: <!-- CURRENT_RATING --> 708
