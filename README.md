@@ -12,7 +12,7 @@
 
 [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=sakaYq4875&theme=monokai&row=&column=)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
-- AC数: <!-- AC_COUNT --> 1310
+- AC数: <!-- AC_COUNT --> 1314
 - 現在レート: <!-- CURRENT_RATING --> 727
 - 前回のPerf: <!-- PERFORMANCE --> 883
 
