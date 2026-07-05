@@ -2,7 +2,7 @@
 
 競技プログラミング・数学・クイズ系の開発をしています。
 
-## 🧩 活動
+## 活動
 
 ### AtCoder
 
@@ -10,7 +10,7 @@
 
 [![Rating(Heuristic)](https://badgen.org/img/atcoder/sakaYq4875/rating/heuristic?style=plastic&label=Heuristic)](https://atcoder.jp/users/sakaYq4875?contestType=heuristic)
 
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=sakaYq4875&theme=monokai&row=&column=)](https://github.com/KATO-Hiro/AtCoderTrophies)
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=sakaYq4875)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
 - AC数: <!-- AC_COUNT --> 1425
 - 現在レート: <!-- CURRENT_RATING --> 818
