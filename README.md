@@ -12,9 +12,9 @@
 
 [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=sakaYq4875&theme=monokai&row=&column=)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
-- AC数: <!-- AC_COUNT --> 1416
-- 現在レート: <!-- CURRENT_RATING --> 774
-- 前回のPerf: <!-- PERFORMANCE --> 1126
+- AC数: <!-- AC_COUNT --> 1425
+- 現在レート: <!-- CURRENT_RATING --> 818
+- 前回のPerf: <!-- PERFORMANCE --> 1147
 
 ### OnlineMathContest
 
