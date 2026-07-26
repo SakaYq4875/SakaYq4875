@@ -14,7 +14,7 @@
 
 - AC数: <!-- AC_COUNT --> 1496
 - 現在レート: <!-- CURRENT_RATING --> 846
-- 前回のPerf: <!-- PERFORMANCE --> 964
+- 前回のPerf: <!-- PERFORMANCE --> 0
 
 ### OnlineMathContest
 
