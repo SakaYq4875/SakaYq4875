@@ -6,9 +6,9 @@
 
 ### AtCoder
 
-[![Rating](https://badgen.org/img/atcoder/sakaYq4875/rating/algorithm?style=plastic&label=Algorithm)](https://atcoder.jp/users/sakaYq4875?contestType=algo)
+[![sakaYq4875(Algo)](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FsakaYq4875)](https://atcoder.jp/users/sakaYq4875)
 
-[![Rating(Heuristic)](https://badgen.org/img/atcoder/sakaYq4875/rating/heuristic?style=plastic&label=Heuristic)](https://atcoder.jp/users/sakaYq4875?contestType=heuristic)
+[![sakaYq4875(Heur)](https://badgen.org/img/atcoder/sakaYq4875/rating/heuristic?style=plastic&label=Heuristic)](https://atcoder.jp/users/sakaYq4875?contestType=heuristic)
 
 [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=sakaYq4875)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
